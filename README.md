@@ -6,7 +6,7 @@ A sleek, modern, and customizable developer portfolio built with **Next.js (App 
 
 ## 📸 Preview
 
-> ⚡ Live Preview Coming Soon...
+![Logo](./.github/screenshot.png)
 
 ---
 
